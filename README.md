@@ -13,8 +13,6 @@
   </a>
 </p>
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://github.com/joaopaulolndev/laravel-devsbook-api/Insomnia_laravel_devsbook_api.json)
-
 ## 💻 Projetct
 
 Laravel DevsBook API is a project made with Laravel 8. It is a social networking API for programmers.

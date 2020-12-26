@@ -2,7 +2,6 @@
 
 <p align="center">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopaulolndev/laravel-devsbook-api">
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/joaopaulolndev/laravel-devsbook-api">
 
   <a href="https://github.com/joaopaulolndev/laravel-devsbook-api/commits/master">
